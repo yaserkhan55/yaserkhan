@@ -1,4 +1,4 @@
-👋 Hi, I’m Yaser Ahmed Khan
+👋 Hi, I’m Yaser Ahmed Khan 
 
 🚀 MERN Stack Developer (2 Years Experience) MERN Stack Developer with 2 years of hands-on experience in designing and developing scalable, secure, and user-centric web applications. Strong expertise in building responsive frontends, developing RESTful APIs, and delivering production-ready full-stack solutions using modern web technologies.
 
